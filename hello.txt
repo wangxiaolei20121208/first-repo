@@ -1,6 +1,6 @@
 hello git! hello atguigu! aaaaaaaa
 hello git! hello atguigu!
-hello git! hello atguigu!
+hello git! hello atguigu! 在hot-fix分支上进行修改
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
