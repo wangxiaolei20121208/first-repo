@@ -3,7 +3,7 @@ hello git! hello atguigu! master上进行修改
 hello git! hello atguigu! 在hot-fix分支上进行修改
 hello git! hello atguigu!
 hello git! hello atguigu! 在hot-fix分支上进行修改
-hello git! hello atguigu!
+hello git! hello atguigu! 在project1中修改
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
